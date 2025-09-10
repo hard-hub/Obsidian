@@ -1,0 +1,27 @@
+- What are Headers.?
+	- Key-Value Pairs
+	- Provide metadata from client-->server && server-->client
+	- What are the things that we should and can pass in Request Header.?
+		- Authentication / Identity
+			- JWT Tokens
+			- Cookies
+			- Username, Password, etc.
+		- Content Information
+			- Type, Length and Encoding done in Content
+		- Request Content 
+			- What type of format the client expects
+			- Browser Info
+			- From where is the request originated
+			- CORS check
+		- Custom Request Headers [if you want any specific details related to client]
+	- What are the things that we should and can pass in Response Header.?
+		- Content Info
+			- Type, Length and Encoding done in Content
+		- **CACHING**
+		- Security 
+		- Custom Response Headers
+- What is CSRF Protection.?
+- What we are doing right now is basically sending the email and password to the backend on button click from the front-end and then if valid, then creating a token and using it.?
+- What if I bring the data from the backend to the frontend and then create a token in the frontend itself.?
+- How about creating your own login application logic and not relying on JWT or OAuth.?
+- What are the ways to handle and store authentication tokens in Angular.?

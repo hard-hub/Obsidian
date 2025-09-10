@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"2e498918135cefd2","type":"text","text":"Micro-Services","x":1019,"y":-710,"width":263,"height":61},
+		{"id":"ca2ec5c869d39d1d","type":"file","file":"Micro-Services.md","x":940,"y":-547,"width":420,"height":62},
+		{"id":"0694f145dd45f0da","type":"text","text":"Improve your APIs","x":163,"y":-865,"width":275,"height":69},
+		{"id":"c8cb193c7b9d2317","type":"file","file":"APIs.md","x":80,"y":-710,"width":440,"height":50},
+		{"id":"3fcd25b87070cf8f","type":"file","file":"REST.md","x":-400,"y":-549,"width":440,"height":60},
+		{"id":"2d06c14822266315","type":"file","file":"Back-End.md","x":420,"y":-1180,"width":400,"height":54},
+		{"id":"b7d0fd1387221de4","type":"file","file":"Web Working Concepts.md","x":-120,"y":-1400,"width":400,"height":53},
+		{"id":"3dd8911e4dea1226","type":"file","file":"Dot Net.md","x":438,"y":-1400,"width":400,"height":50},
+		{"id":"8d80af4f89735f3d","type":"file","file":"Authentication & Authorization.md","x":-400,"y":-1180,"width":480,"height":50},
+		{"id":"5522f6d14b99cf7b","x":295,"y":-280,"width":250,"height":60,"type":"text","text":"CRON Jobs"},
+		{"id":"b907e942590270f5","x":295,"y":-400,"width":250,"height":60,"type":"text","text":"Motia "},
+		{"id":"331ac2888af1294a","x":295,"y":-180,"width":250,"height":60,"type":"text","text":"SRE"},
+		{"id":"25cdfadbd370fa38","x":295,"y":-60,"width":250,"height":60,"type":"text","text":"Message Queues"},
+		{"id":"cc671b184c0d2c1b","x":295,"y":60,"width":250,"height":60,"type":"text","text":"Event Bus"},
+		{"id":"c4d03962ade5ef6d","x":295,"y":180,"width":250,"height":60,"type":"text","text":"Rate Limit in APIs"},
+		{"id":"d095f4b1640ad865","x":295,"y":300,"width":250,"height":60,"type":"text","text":"Zod"}
+	],
+	"edges":[
+		{"id":"ed16a67641968636","fromNode":"2e498918135cefd2","fromSide":"bottom","toNode":"ca2ec5c869d39d1d","toSide":"top"},
+		{"id":"acbe0ed561a5e2bd","fromNode":"0694f145dd45f0da","fromSide":"bottom","toNode":"c8cb193c7b9d2317","toSide":"top"},
+		{"id":"d7691a08e14a8a3b","fromNode":"c8cb193c7b9d2317","fromSide":"bottom","toNode":"3fcd25b87070cf8f","toSide":"top"}
+	]
+}

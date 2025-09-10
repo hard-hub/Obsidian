@@ -1,0 +1,7 @@
+- Authentication Schemes in `.net`.?
+	- Cookie Authentication
+	- JWT Bearer
+	- OAuth2 / OpenID Connect
+	- Negotiate / Windows Authentication
+	- Certificate Authentication
+	- Custom Authentication Schemes like HMAC signing

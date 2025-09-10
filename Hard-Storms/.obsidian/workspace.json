@@ -1,24 +1,27 @@
 {
   "main": {
-    "id": "18bf4559888bb983",
+    "id": "d999704ed36d8ae7",
     "type": "split",
     "children": [
       {
-        "id": "e63dd98f5b01281a",
+        "id": "5edf27436fd29ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac09edf3ea612b1",
+            "id": "b153ab77f85e0f91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Software Engineering/Tips.md",
-                "mode": "source",
-                "source": false
+                "file": "Back-end COOL.canvas",
+                "viewState": {
+                  "x": 548.1042327729899,
+                  "y": 255.01781169313767,
+                  "zoom": -0.58835042300364
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tips"
+              "icon": "lucide-layout-dashboard",
+              "title": "Back-end COOL"
             }
           }
         ]
@@ -27,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3811ead7febf66aa",
+    "id": "4388b6be9cee401f",
     "type": "split",
     "children": [
       {
-        "id": "543f72f56f165768",
+        "id": "fa48358a5b632355",
         "type": "tabs",
         "children": [
           {
-            "id": "07d4a2b071eb5289",
+            "id": "a516c78cf1f03c50",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +51,7 @@
             }
           },
           {
-            "id": "ba59a527c425f9e7",
+            "id": "0d68b60e810feb4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +68,7 @@
             }
           },
           {
-            "id": "b66844762e5be2f9",
+            "id": "6330729c769e73ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "42b410d16935f67f",
+    "id": "8b3681bd4e372968",
     "type": "split",
     "children": [
       {
-        "id": "860744320198d0fd",
+        "id": "d71c112e94b20321",
         "type": "tabs",
         "children": [
           {
-            "id": "37f59529337c5302",
+            "id": "6977d20453d279f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Tips.md",
+                "file": "AI ML/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tips"
+              "title": "Backlinks for Resources"
             }
           },
           {
-            "id": "55e70d565757ebfb",
+            "id": "91a124d3c71fa7d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Tips.md",
+                "file": "Obsidian/AI ML/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tips"
+              "title": "Outgoing links from Resources"
             }
           },
           {
-            "id": "de422e4d56b321c0",
+            "id": "d4947dd49bb42ff8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +140,32 @@
             }
           },
           {
-            "id": "81197525406f9e1e",
+            "id": "3fb8211e11922bac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Tips.md",
-                "followCursor": false,
+                "file": "Obsidian/AI ML/Resources.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tips"
+              "title": "Outline of Resources"
+            }
+          },
+          {
+            "id": "0668122e4e6abe2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,19 +174,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7ac09edf3ea612b1",
+  "active": "a516c78cf1f03c50",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Software Engineering/Tips.md",
-    "Software Engineering"
+    "Obsidian",
+    "New folder",
+    "Micro-Services.md",
+    "Back-end COOL.canvas",
+    "Vital-Voyage.canvas",
+    "Vital-Voyage.md",
+    "Authentication & Authorization.md",
+    "Web Working Concepts.md",
+    "Dot Net.md",
+    "Back-End.md",
+    "APIs.md",
+    "Angular/Angular.md",
+    "REST.md",
+    "Pasted Image 20250625102648_836.png",
+    "Pasted Image 20250630142408_229.png",
+    "README.md",
+    "Chef-ing.md",
+    "Angular/Module 15.md",
+    "Dev/JS.md",
+    "Pasted Image 20250625102033_427.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Sticky Notes/Untitled.md",
+    "Sticky Notes",
+    "Intern API.canvas",
+    "2025-06-30.md",
+    "Angular/Module 02.md",
+    "Angular/Module 06.md",
+    "Angular/Module 12.md",
+    "Angular/Module 46.md",
+    "Angular/Module 03.md",
+    "Angular/Module 01.md",
+    "Dev/Fast API.md",
+    "Angular",
+    "Pasted Image 20250630142536_135.png",
+    "Pasted Image 20250630142516_912.png",
+    "Pasted Image 20250630142502_535.png",
+    "Pasted Image 20250630142448_015.png",
+    "Pasted Image 20250630142435_818.png",
+    "Pasted Image 20250630142423_387.png",
+    "Pasted Image 20250626112507_344.png",
+    "DOT NET",
+    "Tournament Tracker",
+    "Compiler/Understanding Compiler.canvas",
+    "Excalidraw",
+    "Compiler",
+    "Chef",
+    "Flowers",
+    "Dev"
   ]
 }

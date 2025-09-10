@@ -1,0 +1,4 @@
+- *REST stands for Representational State Transfer*
+- What is REST.?
+- ***Representation of Entities** is the main idea here.*
+- 

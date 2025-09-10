@@ -1,0 +1,54 @@
+- How to make an empty node application.?
+- What does `npm init` do.?
+- What is Express.?
+- What is `common js` and `module js`.?
+- What do you mean by `listen`.?
+- What is a port.? How many ports are there.?
+- What are virtual port.?
+- What is `app.get()`.?
+- What is `app.listen()`.?
+- What is Request.?
+- What is Response.?
+- What is a Server.? How to make a server.?
+- What does `npm run start` command does.?
+- What does `npm run dev` command does.?
+- What is hot reloading.?
+- When I login from my server, it gets in but it doesn't in the video, what the hell happened.?
+- What is `nodemon`.? Why to use it.?
+- How to deploy your server.?
+- What is `dot env`.?
+- What do you write in a `.env` file.?
+- What does an `.env` file do and why should we use it.?
+- `const express = require('express')` => `CommonJS`
+- `import express from 'express'` => `ES Module(ESM)`
+- What is the difference between `CommonJS` and `ES Module`.?
+- What is `DigitalOcean` and `Heroku`.?
+- What is CI/CD Pipeline.?
+- What is Full Stack Proxy.?
+- What is CORS.?
+- *If there is no port configured in the `.env` file, then in the production the port will not run and it will throw an error.*
+- How to standardize a route.?
+- What if while routing I don't write `/` like not `/users` but just `users`. What will happen.?
+- What is Tool Chains.?
+- What is Bundlers.?
+- What does `npm create vite@latest .` command does.?
+- When we loop, we need to give key[a unique property] for optimization as in react, the tree creates an issue. What do you mean by this.?
+- What is `fetch`, `axios` and `reactQuery` to call API.?
+- What is Cross-origin.?
+- What is the process of IP Whitelisting or Domain Whitelisting.?
+- What is Proxies.?
+- What does Proxy do.?
+- *It imitates that the API is coming from the same server whether we open the frontend any where in the world.*  Is this statement true.?
+- What is `useEffect()`.?
+- What are the other solutions of CORS rather than Proxies.?
+- What does `npm run build` command do.?
+- What is `app.use(express.static('dist'))` line of code does.? Why is it a bad practice.?
+- Segregation between Frontend and Backend.!
+- What is Data modelling.?
+- How to do Data Modelling in Mongoose.?
+- What is `Moon Modeler`.?
+- *What Data to keep in your Database is very imp. The fields to add, the types to match and all.*
+- What is `eraser io`.?
+- What is Prisma.?
+- `StackBlitz` & `Replit`.!
+- What does `npm i mongoose` command does.?

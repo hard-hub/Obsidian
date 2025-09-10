@@ -1,0 +1,292 @@
+## freeCodeCamp
+- What is Angular.?
+- Difference between Frameworks and Libraries.?
+- Features of Angular.?
+- What is a Framework.?
+- What is a Component.?
+- What is Routing.?
+- Why to use Angular.?
+- What is `PWA` functionality.?
+- What are Templates.?
+- What is Data Binding.? How to Bind Data.?
+- What are Observables.?
+- What is `TypeScript`.?
+- Why `TypeScript`.?
+- What is Type Safety.?
+- What is a Strongly Typed Programming Language.?
+- *`TypeScript` compiles back to `JavaScript`*.!?
+- What are Type Errors.?
+- *In `TypeScript`, Types are stripped down when your code is converted to `JavaScript`.*
+- Can't we just compile our TS code.?
+- Why do we need to convert it to JS.? Isn't that boring.?
+- What does `npm init` command does.?
+- How can you create a `package.json` file.?
+- What is a `package.json` file.? 
+- What are the alternatives of `package.json`.?
+- What is TSC.?
+- What are SPA[Single Page Application].?
+- How can you create SPA.?
+- Angular has it's own Routing functionality to create SPA
+- Angular also supports SSR which supports SPA
+- *SSR is good for SEO.*
+- Data types in TS.?
+- What is Type Inference.?
+- What is Type Casting.?
+- What are Generics.?
+- What are `enums`.?
+- What are `Tuples`.?
+- *In case you want to return multiple values from a function, `Tuples` are very useful.*
+- What is `any`.?
+- What is the issue with `any`.? Why should we avoid using it.?
+- What is `void`.?
+- What is `never`.?
+- What are Functions.? 
+- What are Generic Functions.?
+- What are Optional Parameters and Required Parameters.?
+- What are Rest Parameters.?
+- What is `?` operator.?
+- What is Optional Chaining.?
+- What are Classes.?
+- What is IFY[Immediately Invoked Function].?
+- What is `!`.?
+- What does `#` do.?
+- What are getters and setters.?
+- What are interfaces.? Why are they important.?
+- What are Types.?
+- What is `Object Destructuring`.?
+- What is `Array Destructuring`.?
+- *There is no such thing as `Interfaces` in JS, so when you compile and when your code get's converted from TS to JS, interface is deprecated.*
+- Then, when should you use `Classes` and when should you use `Interfaces`.?
+- What are Decorators.?
+- What is `ESModule`.?
+- *TS would always get compiled and run even if there are errors. The compiler sure would show you the issue but that doesn't mean that the code will not compile.*
+- What does `ng generate app "app-name"` command does.?
+- What is `tsconfig.json` file.? What does it do.?
+- What is `tsconfig.app.json` and `tsconfig.specs.json` file.? What does it do.?
+- What is `package.json`.?
+- What is `.editconfig` file does.?
+- What does `node-module` folder contain and what does it do.?
+- What is `polyfills.ts`.?
+- What is `zone.js`.?
+- What is `main.ts`.?
+- What is `app-routing.module.ts`.?
+- What is mono-repo.?
+	- Create & maintain multiple applications in same repo
+- What does `@NgModule` does.?
+- What is Component.?
+- What do you mean by Declarative Templates.?
+- What is Watch-mode in `ng serve`.? What does it do.?
+- How to create and maintain extensions in vs code.?
+- What is Template Syntax.?
+- What is Selector in `app.ts`.?
+- What is Template Engine.?
+- Why do you create Frontend Application.?
+- What is Binding Syntax.?
+- How can you Bind your data with Frontend.?
+- What is String Interpolation.?
+- What is Property Binding.?
+- What is Event Binding.?
+- What is Banana Syntax and Box Syntax.?
+- How to Debug your application.?
+- What are Directives.?
+	- It is used to change the behavior and appearance of DOM element.
+	- It implements all lifecycle hooks.
+	- It can not have template.
+- Types of Directives and Built-in Directives.?
+	- Structural Directive[costly]
+	- Attribute Directive
+- Can you create your own Directive.?
+- *When you have multiple DOM elements, it can cause Performance issue.*
+- Structural Directives can remove and add tags like `div` and that's how they can change the structure or bend it.
+- What is Optional Chaining.?
+- What is `nullish collision` .?
+- What is Angular Material Table.?
+- How to improve the performance of `ngFor`.?
+- The `*` is the thing that gives you the difference between a structural and attribute directive. `*ngIf` and `ngStyle`.
+- What is Pipes.?
+	- It is used for Data Transformation
+	- It doesn't change the actual object
+- Built-in Pipes in Angular.?
+- What is Pagination.?
+- What is Internalization and Localization.?
+- Can we add Bootstrap to Angular.?
+- What does this `npm install -D tailwindcss postcss autoprefixer` command do.?
+- What does this `npx tailwindcss init` command do.?
+- What are Lifecycle Hooks.?
+- Why do we need Lifecycle hooks.?
+- *Constructor should be used to inject services and there should not be any blocking code.*
+- What is Component Communication.?
+-  What does `@Input` does.?  
+- What is Parent Child relationship.?
+- What is Smart Dumb Component relationship.?
+- What is `ngOnInit()`.?
+- What is `ngOnChanges()`.?
+- What is Change Detection.? How does it work in Angular.?
+- Can we change the Change Detection Strategy.?
+- What is `ChangeDetectionStrategy.OnPush()` and when can it be used.?
+	- It can be used only when you don't change data internally from the backend.
+- What is the concept of Immutability.?
+- *`ngOnChanges()` can only be applied in a directive or component that has an `@Input()` property, it can't be applied anywhere.* Why is that so.?
+- What is `SimpleChange`.?
+- What is `ngDoCheck()`.?
+- Can we apply `ngOnChanges()` and `ngDoCheck()` both on the same component.?
+- Difference between `ngOnChanges()` and `ngDoCheck()`.?
+- What is `ViewChild`.?
+- Why do we use `ViewChild()`.?
+- What the fuck is this `@ViewChild(Header, {static: true}) headerComponent!: Header;`.?
+- Difference between `ngOnInit()` and `ngAfterViewInit`.?
+- How to render Dynamic Components.?
+- What is `ng-template`.?
+- What is the difference between `ViewChild()` and `ViewChildren()`.?
+- What is `ViewChildren()`.?
+- What is Content Projection.?
+- Why do we need to use Content Projection.?
+- *In `ngContent`, the content is something that is provided by the Parent Component.*
+-  What is `@ContentChild()`.?
+- What is `ngAfterContentInit()`.?
+- When does our content gets destroyed.?
+- What is `ngOnDestroy()`.?
+- What is Dependency Injection[DI].?
+	- It is service or objects needed by classes to perform some function.
+	- It's a design pattern.
+- What are DI Providers.?
+- What are Class base providers.?
+- What are Value providers.?
+- What is a Factory.?
+- What is a Service.?
+- What does a Service does.?
+	- It has business logic.
+	- The reusable code is placed in the services.
+-  Rather than creating an instance manually, we would rely on Dependency Injection
+- *You should not inject a component in another component, why so.?*
+- You can share services between multiple components
+- How does angular resolve dependency injections.?
+- What is Dependency Resolution.?
+- What does `providedIn: 'root'` does in the backend.? And why was it changes from previous versions of angular.?
+- Are services singleton.?
+- If there is only one instance of a service, then when we use it multiple times in multiple files by injecting it in the constructor of that particular file, what happens.?
+- How can I create multiple instances of a service.?
+- What is `platformBrowserDynamic()`.?
+- What is `NullInjector()`.?
+- What are Resolution Modifiers.?
+- What is `Self` modifier.?
+- What is Bloom Filter.?
+- What is `SkipSelf` modifier.?
+- What is `Option` modifier.?
+- What is `Host` modifier.?
+- Where can we use Value Providers.?
+	- You can pass an object as a service
+- Create a Value Provider => Register a Value Provider => Use a Value Provider
+- Where can you use Value Providers.? What are it's use cases.?
+- What is `localStorage` and `sessionStorage`.?
+- How can we use Value Providers to inject data into `localStorage` or `sessionStorage`.?
+- What is Angular http.?
+- What are Observables.?
+	- They are stream of data to which we can subscribe.
+- How to interact with your APIs.?
+- What is `HttpClient`.?
+	- It is a service provided by Angular to interact with APIs.
+	- It uses `RxJs` internally.
+- What is `RxJs`.?
+	- It is a library to work with event based programs using observables.
+	- It is a library for writing Reactive Programming.
+- What is `HttpClientModule`.?
+- What is `--proxy-config`.?
+- *You need to subscribe to the continuous stream of data.*
+- What is push v/s pull architecture.?
+- *`RxJs` works on push based architecture.*
+- How can we create an observable not by `HttpClient` but by our own.?
+- What is subscribe.?
+- What does Observable and Observe do.?
+- What is `HttpGet`, `HttpPost`, `HttpPut`, `HttpDelete`.?
+- What is `Http Request`.?
+- What is Throttling.?
+- What is `HttpEventType`.?
+- What is `RxJs` operators.?
+- What is `ShareReplay`.?
+	- It caches the data.
+- What is `CatchError`.?
+	- It is used to catch the error and handle it.
+- What is `Map Operators`.?
+	- It is used to modify the data.
+- *We cannot modify a stream of data after it is subscribed. We have to do it before in a function and that function is called `Pipe`.*
+- What are built-in pipes.?
+- What is `async pipe`.?
+- What is the downside to subscribing a stream.?
+- What is `Subscription` in `RxJs`.? What does it do.?
+- What is `unsubscribe()`.?
+- What is downside of `async pipe`.?
+- Don't keep multiple async pipes as well, it has a downside.
+- How to catch error in angular.?
+- What is `catchError()` and what does it do.?
+- What does `error$ !: Subject<string>;` this line of code does.?
+- What does `getError$ = this.error$.asObservable();` this line of code does.?
+- *When we use `next` while subscribing, the change detection mechanism is called of the angular.!* What do you mean by that.?
+- How to handle errors.?
+- What are `Map operators` .?
+- How can we modify the header information of our application.?
+- What is `HttpRequestHeader`.?
+- What is `HttpInterceptors`.?
+- What are `Interceptors`.?
+- Why do we use `HttpInterceptors`.?
+- How to use and inject `HttpInterceptors`.?
+- *Interceptors will always execute sequentially in the order they are injected.*
+- What is `APP_INITIALIZER`.?
+	- Allow us to intercept request
+	- We can change data and add headers
+- How to inject `APP_INITIALIZER`.?
+- What is Angular Router.?
+	- Provides functionality to add routes
+- What is Routing.?
+- What is Setup Router.?
+- What is `forRoot()`.? 
+- What is Default, Dynamic and Wild card route.?
+- How to configure a route.?
+- What is Router Outlet.?
+- How to provide navigation to the user.?
+- What is Angular Material.?
+- What is navigation schematics.?
+- What is `404 pages`.?
+- How to add `404 pages` in Angular.?
+- What is Wild card route.?
+- How can we create `Dynamic URLs`.?
+- *If I write any path config after Wild card routing i.e. `**`, it doesn't recognize it.!*
+- What is Activated Route Service.?
+	- allows to read the router data
+	- allows access to snapshot data
+	- allows to access data from Route Config
+- Router Data is also an observable.
+- We shouldn't subscribe to Observables, it will let to memory leakage.?
+- Difference between `params` and `paramsMap`.?
+- What are Template Driven Forms.?
+- Why do we need to use forms.?
+- What is Two-way Data Binding.?
+- What is `ngModel`.?
+- How to add validation in Template Driven Form.?
+- What does `{{roomsForm.pristine | json}}` & `{{roomsForm.dirty | json}}` & `{{roomsForm.valid | json}}` & `{{roomsForm.invalid | json` & `{{roomsForm.value | json}}` these line of code do.?
+- *Your Front-end as well as your Back-end both should have the validations.*
+- Validators like `required` & `minlength and maxlength` & `min and max` & `email` & `pattern: regex` .!
+- What is `Pristine` and `Dirty` state.?
+- How can we add Custom directive in Forms.?
+- How to create a custom directive.?
+- What is the difference when you write `ngSubmit() = 'login()'` in the form tag && `(click) = 'login()` in the button submit tag.?
+- *Directives are similar to components but they will never have templates.*
+- What is helper method to an element.?
+- What is `ElementRef`.?
+- What is `Renderer2`.?
+- What is `@HostListener()`.?
+- You can pass the `@Input` and `@Output` properties to your directives.?
+- What's a linting error.?
+- *Directives are helper methods for your components or your DOM elements.*
+- How to create custom validation using custom directive.?
+- Difference between `Validator - interface` && `Validators - class`.?
+- What is `AbstractControl`.?
+	- It is the base class for almost most of the classes related to Forms.
+	- It gives you controls.
+- What are Reactive Forms.?
+- Difference between `FormsModule` and `ReactiveFormsModule`.?
+- Difference between `bookingForm.value` and `bookingForm.getRawValue`.?
+- *There can be only one `formGroup` in a page. In order to add and nest forms, you can use `formGroupName` to nest more forms.*
+- How to add controls dynamically to your forms.?
+- 
+
