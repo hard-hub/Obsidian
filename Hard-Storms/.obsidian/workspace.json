@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5edf27436fd29ec8",
+        "id": "34071cd54d13c05f",
         "type": "tabs",
         "children": [
           {
-            "id": "b153ab77f85e0f91",
+            "id": "cec6995662c0a821",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Back-end COOL.canvas",
-                "viewState": {
-                  "x": 548.1042327729899,
-                  "y": 255.01781169313767,
-                  "zoom": -0.58835042300364
-                }
+                "file": "Requirement Gathering - CC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Back-end COOL"
+              "icon": "lucide-file",
+              "title": "Requirement Gathering - CC"
             }
           }
         ]
@@ -160,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -185,12 +182,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a516c78cf1f03c50",
+  "active": "cec6995662c0a821",
   "lastOpenFiles": [
+    "Connected Cause.canvas",
+    "POC - CC.md",
+    "UI UX - CC.md",
+    "Architecture Planning - CC.md",
+    "R & D - CC.md",
+    "Requirement Gathering - CC.md",
+    "Back-end COOL.canvas",
+    "Cryptography.md",
     "Obsidian",
     "New folder",
     "Micro-Services.md",
-    "Back-end COOL.canvas",
     "Vital-Voyage.canvas",
     "Vital-Voyage.md",
     "Authentication & Authorization.md",
@@ -215,12 +219,6 @@
     "Intern API.canvas",
     "2025-06-30.md",
     "Angular/Module 02.md",
-    "Angular/Module 06.md",
-    "Angular/Module 12.md",
-    "Angular/Module 46.md",
-    "Angular/Module 03.md",
-    "Angular/Module 01.md",
-    "Dev/Fast API.md",
     "Angular",
     "Pasted Image 20250630142536_135.png",
     "Pasted Image 20250630142516_912.png",
@@ -235,7 +233,6 @@
     "Excalidraw",
     "Compiler",
     "Chef",
-    "Flowers",
-    "Dev"
+    "Flowers"
   ]
 }
