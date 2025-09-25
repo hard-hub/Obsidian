@@ -27,12 +27,42 @@
 
 #### Functional Requirements
 1. What **core features** must the system have.?
+	- User Management
+	- NGO/Charity Management
+	- Donation Mechanism
+	- Wallet/Donation Pool
+	- Charity Selection & Allocation
+	- Receipts & Transparency
+	- Notification & Reminder
+	- Security & Compliance
+	- Multi-currency & Global Support 
 2. Are there any **secondary/optional features** desired for future versions.?
+	- Transparency & Trust [Blockchain Based Donation Ledger & Smart Contracts]
+	- Personalization & AI [AI driven Charity Recommendations, Donation Impact Prediction, Fraud Detection AI]
+	- Engagement & Gamification [Leaderboards & Social Sharing, Donation Challenges]
+	- Analytics & Reporting [Donor Dashboard, NGO Dashboard]
+	- Voice Chatbot Donations
 3. Are there any **specific workflows** the system must follow.?
+	- Donor Onboarding Workflow
+	- NGO Onboarding & Verification Workflow
+	- Round-up Donation Workflow
+	- Manual Donation Workflow
+	- Donation Receipt & Transparency Workflow
+	- Admin Workflow
+	- Fraud Detection Workflow
+	- Impact & Engagement Workflow
 4. Should the system handle **multi-user collaboration** or real-time updates.?
+	- Donation Confirmation
+	- Wallet Updates
+	- NGO Dashboard - Live Donation feed
+	- Admin Fraud/Compliance Alerts
+	- Impact Story / NGO Updates [Future]
 5. Are there **notifications or alerts** needed.? (Email, SMS, in-app)
+	- So yes — your system **definitely needs notifications & alerts**, but smartly categorized to avoid spamming users.
 6. Are there any **reporting or analytics requirements**?
+	- Yeah sure we would need, mainly Essential Dashboards for Donors, NGOs and Admin
 7. Are there **user-generated content features**? (uploads, posts, comments)
+	- 
 8. Are there any **search, filter, or sorting capabilities** needed?
 9. Are there **integration requirements**? (e.g., payment gateways, third-party APIs)
 
@@ -101,4 +131,5 @@
 	- Trust & Transparency
 	- Legal Compliance
 	- User Adoption
-- 
+- User Journey Diagrams (UX)
+- System Requirements
