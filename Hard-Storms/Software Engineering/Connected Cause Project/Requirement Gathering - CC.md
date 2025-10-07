@@ -62,10 +62,28 @@
 6. Are there any **reporting or analytics requirements**?
 	- Yeah sure we would need, mainly Essential Dashboards for Donors, NGOs and Admin
 7. Are there **user-generated content features**? (uploads, posts, comments)
-	- 
+	- For now -> No Requirement, might add in future as light community features.
 8. Are there any **search, filter, or sorting capabilities** needed?
+	- **Donor**
+		- **Search** charities/NGOs by name.
+		- **Filter** charities by : Category, Location & Type
+		- **Sort** charities by : Impact Score, Most donation received & Newly added NGOs
+	- **NGOs**
+		- **Search** their own donor list (by donor name/email)
+		- **Filter** donations by : Date Range, Amount & Status
+		- **Sort** donations by : Highest Donation & Recent Donation
+	- **Admin**
+		- **Search** users (donors & NGOs)
+		- **Filter** NGOs by verification status
+		- **Sort** based on activity or donation volume
 9. Are there **integration requirements**? (e.g., payment gateways, third-party APIs)
-
+	- Payment Gateways -> this must handle Micro-transactions, Recurring collection, Refunds/disputes, PCI-DSS compliance -> e.g. Stripe, PayPal
+	- Banking / Transaction APIs
+	- Charity Verification APIs
+	- Notification & Communication APIs
+	- Identity Verification (KYC) APIs
+	- Analytics & Tracking 
+	- Optional Future Integrations like Blockchain, AI/ML, etc.
 #### Non-Functional Requirements
 1. What are the **performance expectations**? (e.g., response time, concurrent users)
 2. Are there **security requirements**? (e.g., encryption, GDPR, authentication/authorization methods)
