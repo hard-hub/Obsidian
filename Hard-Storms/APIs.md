@@ -35,8 +35,6 @@
 - **SECURITY**
 - [ ] Understand Security Basics to configure into APIs ⏳ 2025-08-14 📅 2025-08-15
 ---
-
-
 ### Logging Practices
 - What is `Logging`.?
 - What are Log Levels.?

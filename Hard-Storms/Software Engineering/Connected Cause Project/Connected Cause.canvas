@@ -6,10 +6,17 @@
 		{"id":"0d8232ae35a4442c","type":"text","text":"POC ","x":-296,"y":-140,"width":250,"height":60},
 		{"id":"3f9c088350a03400","type":"file","file":"Software Engineering/Connected Cause Project/Requirement Gathering - CC.md","x":-915,"y":-500,"width":420,"height":50},
 		{"id":"08072e41441d0906","type":"text","text":"Architecture Planning","x":-20,"y":180,"width":250,"height":60},
+<<<<<<< Updated upstream:Hard-Storms/Software Engineering/Connected Cause Project/Connected Cause.canvas
 		{"id":"8a3967c036cb22e3","type":"file","file":"Software Engineering/Connected Cause Project/R & D - CC.md","x":320,"y":-600,"width":400,"height":50},
 		{"id":"c4b4804679c4ca24","type":"file","file":"Software Engineering/Connected Cause Project/Architecture Planning - CC.md","x":105,"y":420,"width":400,"height":50},
 		{"id":"adb4da664796040e","type":"file","file":"Software Engineering/Connected Cause Project/UI UX - CC.md","x":-880,"y":420,"width":400,"height":50},
 		{"id":"c4dbdec3c900d1ac","type":"file","file":"Software Engineering/Connected Cause Project/POC - CC.md","x":-1020,"y":-175,"width":400,"height":50}
+=======
+		{"id":"8a3967c036cb22e3","type":"file","file":"R & D - CC.md","x":320,"y":-600,"width":400,"height":50},
+		{"id":"c4b4804679c4ca24","type":"file","file":"Architecture Planning - CC.md","x":105,"y":420,"width":400,"height":50},
+		{"id":"adb4da664796040e","type":"file","file":"UI UX - CC.md","x":-880,"y":420,"width":400,"height":50},
+		{"id":"c4dbdec3c900d1ac","type":"file","file":"POC - CC.md","x":-1020,"y":-175,"width":400,"height":50}
+>>>>>>> Stashed changes:Hard-Storms/Connected Cause.canvas
 	],
 	"edges":[
 		{"id":"b2e6ddc701016a36","fromNode":"805cab13ed1017e0","fromSide":"right","toNode":"4034ab82a4ca7771","toSide":"top"},

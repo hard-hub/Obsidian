@@ -18,13 +18,18 @@
 		{"id":"d095f4b1640ad865","type":"text","text":"Zod","x":295,"y":300,"width":250,"height":60},
 		{"id":"cf833e41f6085d4c","type":"text","text":"NGINX","x":295,"y":420,"width":250,"height":60},
 		{"id":"e3008001f152714b","type":"text","text":"Cryptography","x":-445,"y":-20,"width":250,"height":60},
-		{"id":"e63d6533a79766a4","type":"file","file":"Cryptography.md","x":-520,"y":140,"width":400,"height":70},
-		{"id":"9f1fd7728f78ddb6","x":295,"y":540,"width":485,"height":140,"type":"text","text":"Bloom Filter\nRedis `Hashmap`\nTries (Prefix Trees) \nPrefix Based Queries & Autocomplete & Compressed Tries\nB+ Tree\nGoogle Cloud's Spanner\n\n\n"}
+		{"id":"e63d6533a79766a4","type":"file","file":"Cryptography.md","x":-520,"y":140,"width":400,"height":50},
+		{"id":"9f1fd7728f78ddb6","type":"text","text":"Bloom Filter\nRedis `Hashmap`\nTries (Prefix Trees) \nPrefix Based Queries & Autocomplete & Compressed Tries\nB+ Tree\nGoogle Cloud's Spanner\n\n\n","x":295,"y":540,"width":485,"height":140},
+		{"id":"220dadb6590e1ed7","type":"text","text":"Web Hooks","x":-520,"y":420,"width":250,"height":60},
+		{"id":"8785686f6ad5081b","type":"text","text":"Signal R --> Web-Sockets --> Event Source --> Forever Frame --> Long Polling","x":-680,"y":540,"width":635,"height":60},
+		{"id":"1bcb900d67294576","x":-445,"y":720,"width":250,"height":60,"type":"text","text":"CORS"},
+		{"id":"f2b162a35ab6ea8e","x":-520,"y":840,"width":400,"height":50,"type":"file","file":"CORS.md"}
 	],
 	"edges":[
 		{"id":"ed16a67641968636","fromNode":"2e498918135cefd2","fromSide":"bottom","toNode":"ca2ec5c869d39d1d","toSide":"top"},
 		{"id":"acbe0ed561a5e2bd","fromNode":"0694f145dd45f0da","fromSide":"bottom","toNode":"c8cb193c7b9d2317","toSide":"top"},
 		{"id":"d7691a08e14a8a3b","fromNode":"c8cb193c7b9d2317","fromSide":"bottom","toNode":"3fcd25b87070cf8f","toSide":"top"},
-		{"id":"1c11e53b762045a3","fromNode":"e3008001f152714b","fromSide":"bottom","toNode":"e63d6533a79766a4","toSide":"top"}
+		{"id":"1c11e53b762045a3","fromNode":"e3008001f152714b","fromSide":"bottom","toNode":"e63d6533a79766a4","toSide":"top"},
+		{"id":"4478397cb29193c9","fromNode":"1bcb900d67294576","fromSide":"bottom","toNode":"f2b162a35ab6ea8e","toSide":"top"}
 	]
 }
