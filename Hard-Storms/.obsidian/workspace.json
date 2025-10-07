@@ -5,6 +5,7 @@
     "children": [
       {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "e63dd98f5b01281a",
         "type": "tabs",
         "children": [
@@ -17,10 +18,18 @@
           {
             "id": "2db9905b995e0789",
 >>>>>>> Stashed changes
+=======
+        "id": "8700288ad367c806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0563d5f40266df90",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "file": "Software Engineering/Tips.md",
                 "mode": "source",
@@ -45,10 +54,20 @@
               },
               "icon": "lucide-file",
               "title": "CORS"
+=======
+                "file": "Back-end COOL.canvas",
+                "viewState": {
+                  "x": 495.7909794771927,
+                  "y": 38.049545610490895,
+                  "zoom": -1.2768820331461355
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Back-end COOL"
+>>>>>>> Stashed changes
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,13 +219,18 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "4568e1ce0a7a35a1",
+=======
+  "active": "0563d5f40266df90",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
-    "Software Engineering/Connected Cause Project/Connected Cause.canvas",
+    "Back-end COOL.canvas",
     "Software Engineering/Tips.md",
+    "Software Engineering/Connected Cause Project/Requirement Gathering - CC.md",
+    "Software Engineering/Connected Cause Project/Connected Cause.canvas",
     "Software Engineering/Connected Cause Project",
     "Software Engineering/Connected Cause Project/UI UX - CC.md",
-    "Software Engineering/Connected Cause Project/Requirement Gathering - CC.md",
     "Software Engineering/Connected Cause Project/R & D - CC.md",
     "Software Engineering/Connected Cause Project/POC - CC.md",
 =======
@@ -230,7 +254,6 @@
     "REST.md",
     "Micro-Services.md",
     "Dot Net.md",
-    "Back-end COOL.canvas",
     "Back-End.md",
     "Authentication & Authorization.md",
     "Angular/Angular.md",
